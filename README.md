@@ -62,4 +62,4 @@ Queries are organized into 5 sections:
 ## Author
 **Nirbhik Singh**  
 MBA, Management Science — Business Analytics | Ashland University  
-linkedin.com/in/nirbhik-singh-734a8221a
+https://www.linkedin.com/in/nirbhik-singh-734a8221a/?skipRedirect=true
