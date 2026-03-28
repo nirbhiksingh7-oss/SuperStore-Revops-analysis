@@ -57,7 +57,17 @@ Queries are organized into 5 sections:
 - Section 5: Product Profitability
 
 ## Tableau Dashboard
-🔗 Live dashboard link — coming soon
+## 📊 Tableau Dashboard
+
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17747171793090/SuperStoreRevenueDashboard)
+<img width="1335" height="713" alt="Super Store Revenue Dashboard" src="https://github.com/user-attachments/assets/4357ca88-dcaa-4a89-98dd-c70baa9a74c9" />
+
+**Key Visual Findings:**
+- Central misses quota by ~20pts — the highest-priority region for intervention
+- East matches West on margin efficiency (13.5% vs 14.9%) at lower revenue — best growth lever
+- West discounts heavily yet leads on margin — discounting strategy alone doesn't explain profitability
+- Consumer drives 49% of revenue but margin sustainability warrants scrutiny
+- Revenue spikes in months 10–12 — seasonal pattern with planning implications
 
 ## Author
 **Nirbhik Singh**  
